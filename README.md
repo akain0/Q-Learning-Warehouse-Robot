@@ -1,7 +1,7 @@
 Project Title: Warehouse Robot Route Optimization
 
 Description:
-This project aims to optimize the route planning for warehouse robots using the Q-learning algorithm. The warehouse environment is represented as a grid with different locations denoted by letters ('A' to 'I'). The robots need to navigate from a starting location to an ending location efficiently while maximizing rewards based on the given reward matrix.
+This project aims to optimize the route planning for warehouse robots using the popular Q-learning algorithm, used widely in Reinforcement Learning. The warehouse environment is represented as a grid with different locations denoted by letters ('A' to 'I'). The robots need to navigate from a starting location to an ending location efficiently while maximizing rewards based on the given reward matrix.
 
 Setup:
 
